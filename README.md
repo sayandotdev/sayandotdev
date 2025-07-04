@@ -8,7 +8,7 @@
 
 📫 To reach me - [https://sayanrakshit.vercel.app](https://sayanrakshit.vercel.app)
 
-👨‍💻 All of my projects are available at **https://github.com/devsayanR**
+👨‍💻 All of my projects are available at **https://github.com/sayandotdev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
