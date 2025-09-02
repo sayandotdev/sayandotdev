@@ -5,9 +5,8 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Full+Stack+JavaScript+Developer;Building+Scalable+and+Modern+Web+Apps;Always+Learning+New+Things+🚀" />
-  </a>
+  
 </p>
 
 ---
@@ -58,10 +57,10 @@
 ## 📂 Featured Projects
 
 <p align="center">
-<a href="https://github.com/sayandotdev/PROJECT_2">
+<a href="https://github.com/sayandotdev/Tokenizer"  target="_blank" rel="noreferrer noopener">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sayandotdev&repo=Tokenizer&theme=tokyonight" />
   </a>
-  <a href="https://github.com/sayandotdev/PROJECT_1">
+  <a href="https://github.com/sayandotdev/browser-form-fillup-automation">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sayandotdev&repo=browser-form-fillup-automation&theme=tokyonight" />
   </a>
 </p>
@@ -71,10 +70,10 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/sayandotdev" target="_blank">
+  <a href="https://linkedin.com/in/sayandotdev" target="_blank" rel="noreferrer noopener">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/sayandotdev" target="_blank">
+  <a href="https://twitter.com/sayandotdev" target="_blank" rel="noreferrer noopener">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </p>
